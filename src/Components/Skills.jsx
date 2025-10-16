@@ -3,11 +3,11 @@ import React from "react";
 const Skills = () => {
   return (
     <>
-      <section id="education" className="education-section py-12 dark:bg-[#0a0a0a]">
+      <section id="skills" className="skills-section py-12 dark:bg-[#0a0a0a]">
         <div className="container mx-auto px-8 md:px-4">
           <div className="section-title text-center" data-aos="fade-up">
             <h2 className="text-3xl font-bold text-gray-800 dark:text-white">My Skills</h2>
-            <div className="line mx-auto my-4 w-16 h-1 bg-rose-800 dark:"></div>
+            <div className="line mx-auto my-4 w-16 h-1 bg-rose-800 dark:bg-gray-700"></div>
             <p className="lead text-gray-600 mt-2 dark:text-white">
               Technologies and tools I use to create amazing web experiences
             </p>

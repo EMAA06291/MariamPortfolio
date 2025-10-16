@@ -6,7 +6,7 @@ import AboutMe from "./Components/AboutMe";
 import Education from './Components/Education';
 import Skills from './Components/Skills';
 import Contact from './Components/Contact';
-import Portfolio from './Components/Portfolio';
+import Portfolio from './Components/portfolio';
 function App() {
   useEffect(() => {
     AOS.init({ duration: 1000, once: true });

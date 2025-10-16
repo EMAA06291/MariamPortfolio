@@ -3,7 +3,7 @@ import uni from "../assets/uni.png";
 const EducationSection = () => {
   return (
     <>
-    <section id="education" className="education-section py-12 bg-[#fcd5ce65] dark:bg-[#0a0a0a]">
+    <section id="education" className="education-section py-12 bg-[#fcd5ce65] dark:bg-[#0a0a0a] overflow-x-hidden">
       <div className="container mx-auto px-8 md:px-4">
         <div className="section-title text-center" data-aos="fade-up">
           <h2 className="text-3xl font-bold text-gray-800  dark:text-white">Education</h2>

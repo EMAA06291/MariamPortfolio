@@ -27,7 +27,7 @@ const Portfolio = () => {
 
   return (
     <>
-      <section id="portfolio" className=" py-12 bg-[#fcd5ce65] dark:bg-[#0a0a0a]">
+      <section id="portfolio" className=" py-12 bg-[#fcd5ce65] dark:bg-[#0a0a0a] overflow-x-hidden">
         <div className="container mx-auto px-6">
           <div className="text-center mb-10" data-aos="fade-up">
             <h2 className="text-3xl font-bold text-gray-800 dark:text-white">My Portfolio</h2>
